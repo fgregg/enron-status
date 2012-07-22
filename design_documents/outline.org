@@ -1,0 +1,87 @@
+"There are no two hens living together which have not decided whether
+A is despot over B or B is despot over A"[1]
+
+[1] Thorleif Schjelderup-Ebbe, 1922, "A Contribution to the Social
+Psychology of the Domestic Chicken"
+
+* The Evan's Question
+- Let's assume that we find a very strong and clear differences among
+  the messages and the patterns of interactions with inferior origins
+  and superior destinations. 
+
+  Who cares?
+
+- Some answers
+  1. Since we have a good mix of genders in the corpus, we have a test
+     of the role-expectation explanation of social status as
+     articulated by Ridgeway and Smith-Lovin.
+  2. A stable, small, and powerful indicators which can be used to
+     uncover hierarchies
+     - Okay, but hierarchies of what? That's the nub right
+       there. 
+
+* Hierarchies of What?
+
+Potential answers include :
+
+** Valuation of a social relation, Blau
+- Blau argues that one of the things that we exchange in social
+  exchange is esteem, but like every exchange, we expect to get
+  something back...
+** Dominance hierarchy
+- What does dominance between humans look like? The "pecking order" of
+  chickens is about who pecks who without getting pecked. What are the
+  human equivalents of a peck and the unreturned peck?
+- To what degree is inability to exit a situation constitutive of the
+  a dominance order. When we can leave, will we still form dominance
+  orders?
+  - If that is so, then we might make a first order prediction that
+    'dominance' will be more readily observed in relative static
+    portions of a firm where /everyone is doing that same kind of task/
+** Status/Leadership
+- We may want to differentiate leadership from dominance. We will let
+  other people lead, if we think that we will benefit from their
+  leadership. We can appreciate and respect that leadership, but
+  deference is limited to the task situation and the continued good
+  performance of the leader. Does respect and deference look different
+  than submission in a dominance relation? In /Street Corner Society/,
+  Doc says he beat up, at some time, almost every member of his gang,
+  but he doesn't do that anymore. He is loved, not feared by the
+  Norton Boys. Yet, the younger guys can't defeat Doc in bowling, even
+  though they are better bowlers every other night of the week. How
+  much of the difference between leadership and dominance about the
+  possibility for 'turn taking' for leadership?
+  - What about looking at the results of intramural competitions that
+    exist withing firms and other organizations?
+- Even further we may cede leadership to people we don't respect, but
+  who are clearly competent within a particular task situation. I.e.,
+  professionals dealing with mechanics.
+** Consideration, Politeness
+- Much of politeness would seem to be defining a situation so that it
+  could not be understand as referring to a dominance order, but that
+  does not mean that the situations is /not/ about dominance. While
+  politeness and submissiveness may often hang together, they
+  absolutely need not. http://vimeo.com/27893126
+
+
+* Observable Phenomena of Interest
+- Features of message content that distinguish superior and inferior
+  positions
+  - Spelling
+  - Grammar
+  - Sentence Complexity
+  - Length
+  - Questions
+  - Hedges
+  - Reading level
+- Features of interactions that distinguish superior and inferior
+  positions
+  - Latency
+  - Initiation of Communication Sequences
+  - Termination of Communication Sequences
+  - Ratio of e-mails received from alter vs emails sent to alter
+  - 
+  - 
+
+* Wierdness with Enron
+- Mark "Dana" Davis Jr. and Dana Davis have the same inbox and same e-mail
